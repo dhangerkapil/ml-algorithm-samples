@@ -1,2 +1,2 @@
-# Final-Project
+# ML-Algorithm-Samples
 ML Algorithm samples
